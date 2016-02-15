@@ -1,0 +1,6 @@
+{
+  "name": "UserListRender",
+  "main": "UserListRender.js",
+  "description": "The client render for userlist plugin",
+  "author": "Joseph Brumaghim <joe@josephbrumaghim.com>"
+}
